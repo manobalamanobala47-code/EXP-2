@@ -50,7 +50,7 @@ Procedure for Load test:
 Tabulation for Open Circuit Test
  ![img alt](https://github.com/manobalamanobala47-code/EXP-2/blob/main/WhatsApp%20Image%202026-03-16%20at%201.16.13%20AM.jpeg)
 Tabulation for Load Test:
- ![img alt]()
+ ![img alt](https://github.com/manobalamanobala47-code/EXP-2/blob/main/WhatsApp%20Image%202026-03-16%20at%201.16.44%20AM.jpeg)
 Model graph:
  ![img alt](https://github.com/manobalamanobala47-code/EXP-2/blob/main/WhatsApp%20Image%202026-03-16%20at%201.03.22%20AM.jpeg)
 
