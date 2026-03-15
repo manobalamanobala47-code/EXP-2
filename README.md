@@ -54,7 +54,7 @@ Tabulation for Load Test:
 Model graph:
  ![img alt](https://github.com/manobalamanobala47-code/EXP-2/blob/main/WhatsApp%20Image%202026-03-16%20at%201.03.22%20AM.jpeg)
 
-  ![img alt]()
+  ![img alt](https://github.com/manobalamanobala47-code/EXP-2/blob/main/WhatsApp%20Image%202026-03-16%20at%201.03.45%20AM.jpeg)
 Calculation: 
 
 Open circuit characteristics
