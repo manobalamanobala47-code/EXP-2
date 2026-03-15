@@ -52,7 +52,7 @@ Tabulation for Open Circuit Test
 Tabulation for Load Test:
  ![img alt]()
 Model graph:
- ![img alt]()
+ ![img alt](https://github.com/manobalamanobala47-code/EXP-2/blob/main/WhatsApp%20Image%202026-03-16%20at%201.03.22%20AM.jpeg)
 
   ![img alt]()
 Calculation: 
